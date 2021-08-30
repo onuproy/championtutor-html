@@ -1698,9 +1698,9 @@ p a {
     background-repeat: no-repeat;
     background-position: center center;
     padding: 30px 10px;
-    position: relative;
+    /* position: relative;
     border-top-left: 10px;
-    border-top-right: 10px;
+    border-top-right: 10px; */
     margin-top: -2px;
 }
 .side-left-area {
@@ -1920,7 +1920,6 @@ p a {
     margin-right: 15px;
     cursor: pointer;
 }
-.banner_image_app {}
 .banner_image_app {
     width: 232px;
     margin: auto;
@@ -2269,7 +2268,6 @@ img {
 .step_item_text p {
     width: 83%;
 }
-.step_button {}
 .step_button a {
     color: #EA4335;
     background: #FFF;
@@ -2626,7 +2624,6 @@ textarea:focus {
     margin: 0;
     padding: 0;
 }
-.tabs_top_input ul {}
 .tabs_top_input ul li {
     border: 1px solid #E3E3E3 !important;
     background: #FFF !important;
@@ -2872,7 +2869,6 @@ textarea:focus {
     background-position: center center;
     padding: 110px 0px;
 }
-.qualification_text {}
 .qualification_text p {
     padding-bottom: 25px;
     font-size: 22px;
@@ -3903,7 +3899,6 @@ textarea:focus {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
 }
-.map_title_list ul li {}
 .map_title_list ul li a {
     font-family: Open Sans;
     font-size: 18px;
@@ -4112,7 +4107,6 @@ textarea:focus {
     -ms-flex-align: center;
     align-items: center;
 }
-.job_list_locations ul li {}
 .job_list_locations ul li a {
     font-family: Arial;
     font-style: normal;
@@ -4131,7 +4125,6 @@ textarea:focus {
 .job_list_locations ul li a span {
     padding-right: 8px;
 }
-.job_list_locations ul li a span img {}
 .job_list_locations ul li:nth-child(2) a {
     color: #EA4335;
 }
@@ -4224,7 +4217,6 @@ textarea:focus {
     -ms-flex-align: center;
     align-items: center;
 }
-.view_job_text_2 {}
 .view_job_text_2 h5 {
     font-weight: bold;
     font-size: 38px;
@@ -6548,7 +6540,6 @@ a.ui-button:active,
     display: none;
   }
 }*/
-.multiselect-container.dropdown-menu .active {}
 .multiselect-container.dropdown-menu li.active a label {
     color: #EA4335 !important;
     background: #FEF6F5 !important;
@@ -9875,7 +9866,6 @@ only screen and (min-resolution: 2dppx) {
 .list_dot_math_bd ul li b {
     margin-right: 8px;
 }
-.image_row_table_content {}
 .image_row_table_content img {
     width: 100%;
 }
@@ -10651,10 +10641,6 @@ only screen and (min-resolution: 2dppx) {
 .second_multi_step_form_area_top_title .ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
     color: #EA4335 !important;
     text-decoration: none;
-}
-
-.second_tab_title_area_icon ul li a:hover::before {
-
 }
 
 .second_tab_title_area_icon ul li a::before {
