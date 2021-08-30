@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial.woff2') format('woff2'),
+        url('Arial.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Arial';
+    src: url('Arial-BoldMT.woff2') format('woff2'),
+        url('Arial-BoldMT.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Times New Roman Cyr';
+    src: url('TimesNRCyrMT-Bold.woff2') format('woff2'),
+        url('TimesNRCyrMT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('TimesNewRomanPS-ItalicMT.woff2') format('woff2'),
+        url('TimesNewRomanPS-ItalicMT.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Times';
+    src: url('Times-BoldItalic.woff2') format('woff2'),
+        url('Times-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Times New Roman Cyr';
+    src: url('TimesNRCyrMT.woff2') format('woff2'),
+        url('TimesNRCyrMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Slabo 27px';
+    src: url('Slabo27px-Regular.woff2') format('woff2'),
+        url('Slabo27px-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Slabo 13px';
+    src: url('Slabo13px-Regular.woff2') format('woff2'),
+        url('Slabo13px-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
