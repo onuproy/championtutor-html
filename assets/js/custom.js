@@ -7,13 +7,13 @@ jQuery(document).ready(function () {
 		return false;
 	});
 
-	jQuery('.collapsed').click(function () {
-		return false;
-	});
+	// jQuery('.collapsed').click(function () {
+	// 	return false;
+	// });
 
-	jQuery('.mb-0 a').click(function () {
-		return false;
-	});
+	// jQuery('.mb-0 a').click(function () {
+	// 	return false;
+	// });
 
 
 	
