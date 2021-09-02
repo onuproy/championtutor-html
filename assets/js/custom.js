@@ -16,7 +16,20 @@ jQuery(document).ready(function () {
 	// });
 
 
-	
+	// Get Start Video Dashboard page
+		jQuery('.get_start_video_top_btn').click(function () {
+			jQuery('.get_start_video_top_area').hide();
+			jQuery('.get_seart_video_new_secion_area').show();
+			return false;
+		});
+	// Get Start Video Dashboard page Mobile
+		jQuery('.get_start_video_top_btn_2').click(function () {
+			jQuery('.get_start_video_top_area_2').hide();
+			jQuery('.get_seart_video_new_secion_area_2').show();
+			return false;
+		});	
+
+
 
 	jQuery('.bar-icon').click(function () {
 		jQuery('.side_manu_ovelay_color').toggleClass('open_side_menu_color');
@@ -58,6 +71,7 @@ jQuery(document).ready(function () {
 		jQuery('.seach-form-area').slideToggle();
 		return false;
 	});
+
 
 	// Job applay time show
 	jQuery('.placeholder_c_show').click(function(){

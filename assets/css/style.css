@@ -647,8 +647,8 @@ p a {
     position: absolute;
     top: 20px;
     right: 20px;
-    width: 40px;
-    height: 40px;
+    width: 45px;
+    height: 46px;
 }
 .play-image img {
     width: 100%;
@@ -10587,14 +10587,7 @@ only screen and (min-resolution: 2dppx) {
     margin-bottom: 26px;
 }
 
-.champion_ture_j_modal .header-fixed-area {
-    padding: 5px 0;
-    position: fixed;
-    width: 100%;
-    background: #FFF;
-    z-index: 1045;
-    box-shadow: 0 0 7px #ddd;
-}
+
 
 .calendar_icon_step.calendar_icon::after {
     top: inherit;
@@ -11093,4 +11086,71 @@ input::-moz-focus-inner, input::-moz-focus-outer {
     display: none;
 }
 
-hello
+
+/*NeW code Css*/
+.video_list_get_text {
+    padding-top: 24px;
+}
+.video_list_get_text p {
+    padding-bottom: 24px;
+}
+.video_get_list_text ul li {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #5A616E;
+    font-family: 'Arial';
+    list-style: disc;
+    margin-left: 30px;
+    line-height: 2.2;
+}
+.text_italic p {
+    font-style: italic;
+    padding-top: 32px;
+    padding-bottom: 48px;
+}
+.browse_input_video .input_single_item {
+    margin-bottom: 0px;
+}
+
+.get_start_video_area .play-image {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+.full-screen-icon img {
+    border-radius: 4px;
+}
+.full-screen-icon {
+    position: absolute;
+    bottom: 16px;
+    right: 16px;
+    width: 32px;
+    height: 32px;
+}
+.get_viode_check .custom_checkbox .radio_item {
+    width: 100%;
+}
+.get_video_chekbox_area {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.get_viode_check_delete_icon {
+    width: 32px;
+    height: 32px;
+    margin-right: 15px;
+}
+.get_seart_video_new_secion_area, .get_seart_video_new_secion_area_2{
+    display: none;
+}
+
+    
